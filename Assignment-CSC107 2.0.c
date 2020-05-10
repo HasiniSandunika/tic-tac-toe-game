@@ -1,7 +1,3 @@
-//CSC 107 2.0 Introduction to computer programming(Assignment)
-//Index No:-AS2016517
-//Name :-S.H.S. Silva
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>//system("cls"); function contains in this library
